@@ -23,3 +23,15 @@ Here are the lectures of the course for this section.
 
 **After watching (learning outcomes)…**
 Ready and raring to start this section.
+
+
+### 2 Block Breaker Game Design ###
+
+**In this video (objectives)…**
+
+1. Fundamental aspects of our design.
+2. Ideas for your game.
+3. Challenge for your game theme, background image and name.
+
+**After watching (learning outcomes)…**
+Clear on the game design we will use for Block Breaker.
