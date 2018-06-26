@@ -11,3 +11,15 @@ In this section we use Unity's physics engine to create a wall-breaking game. (R
 
 ## Lecture List
 Here are the lectures of the course for this section. 
+
+
+### 1 Welcome To Block Breaker ###
+
+**In this video (objectives)…**
+
+1. Overview of this section.
+2. Focus on Unity's physics engine and collisions.
+3. Lots of creative opportunity to make your own levels, background, blocks, rules, tuning and so on.
+
+**After watching (learning outcomes)…**
+Ready and raring to start this section.
