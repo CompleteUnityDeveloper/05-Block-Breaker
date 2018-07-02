@@ -70,3 +70,15 @@ Understand world units and set up play space.
 
 **After watching (learning outcomes)…**
 Able to add the core physics components to 2D objects.
+
+
+### 6 Add Unity Physics Material ###
+
+**In this video (objectives)…**
+
+1. Add Polygon Collider 2D to our paddle.
+2. Add Physics Material 2D to our ball.
+3. Bounce!
+
+**After watching (learning outcomes)…**
+Make a game object bounce off another game object.
