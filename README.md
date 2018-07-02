@@ -59,3 +59,14 @@ Export scenes and logic from one project and import as a package into another.
 
 **After watching (learning outcomes)…**
 Understand world units and set up play space.
+
+
+### 5 Rigidbody & Colliders ###
+
+**In this video (objectives)…**
+
+1. Add a Rigidbody2D to the ball so that it has gravity influencing it.
+2. Add colliders to ball and block so that they collider.
+
+**After watching (learning outcomes)…**
+Able to add the core physics components to 2D objects.
