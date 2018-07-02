@@ -35,3 +35,15 @@ Ready and raring to start this section.
 
 **After watching (learning outcomes)…**
 Clear on the game design we will use for Block Breaker.
+
+
+### 3 Export & Import Package ###
+
+**In this video (objectives)…**
+
+1. Export scenes and SceneLoader.cs from previous project.
+2. Import package into our new project.
+3. Set up build settings, change aspect ratio, update text.
+
+**After watching (learning outcomes)…**
+Export scenes and logic from one project and import as a package into another.
