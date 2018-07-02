@@ -47,3 +47,15 @@ Clear on the game design we will use for Block Breaker.
 
 **After watching (learning outcomes)…**
 Export scenes and logic from one project and import as a package into another.
+
+
+### 4 World Units & Play Space ###
+
+**In this video (objectives)…**
+
+1. Discuss what Unity World Units are.
+2. Set up our camera size.
+3. Import and set up background image, paddle, ball and block.
+
+**After watching (learning outcomes)…**
+Understand world units and set up play space.
