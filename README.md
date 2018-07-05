@@ -82,3 +82,16 @@ Able to add the core physics components to 2D objects.
 
 **After watching (learning outcomes)…**
 Make a game object bounce off another game object.
+
+
+### 7 Colliders, Collision & Triggers ###
+
+**In this video (objectives)…**
+
+1. Stop our ball rotating by freezing Z axis rotation on our Rigidbody.
+2. Create a lose collider.
+3. Discuss difference between trigger and collider and examine the event matrix for collision events.
+5. Load Game Over screen when ball passes through lose collider.
+
+**After watching (learning outcomes)…**
+Make the game load a new scene when an object passes through a trigger volume.
