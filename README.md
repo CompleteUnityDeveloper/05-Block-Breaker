@@ -107,3 +107,14 @@ Make the game load a new scene when an object passes through a trigger volume.
 
 **After watching (learning outcomes)…**
 Move a game object so that it matches the position of the player's mouse.
+
+
+### 9 Limit With Mathf.Clamp() ###
+
+**In this video (objectives)…**
+
+1. Figure out the range we want to allow the paddle to move on x axis.
+2. use Mathf.Clamp() to limit the paddle's movement.
+
+**After watching (learning outcomes)…**
+Use Mathf.Clamp() to limit the movement of a game object.
