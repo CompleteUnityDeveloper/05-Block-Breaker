@@ -95,3 +95,15 @@ Make a game object bounce off another game object.
 
 **After watching (learning outcomes)…**
 Make the game load a new scene when an object passes through a trigger volume.
+
+
+### 8 Move Object With Mouse ###
+
+**In this video (objectives)…**
+
+1. Find the position of the mouse on the screen.
+2. Convert the mouse position into a relative proportion of our screen represented as game units.
+3. Link movement of our mouse to movement of our paddle.
+
+**After watching (learning outcomes)…**
+Move a game object so that it matches the position of the player's mouse.
