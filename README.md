@@ -118,3 +118,14 @@ Move a game object so that it matches the position of the player's mouse.
 
 **After watching (learning outcomes)…**
 Use Mathf.Clamp() to limit the movement of a game object.
+
+
+### 10 Distance As A Vector2 ###
+
+**In this video (objectives)…**
+
+1. Understand how to calculate the distance from ball to paddle.
+2. Update location of the ball to match the location of the paddle plus our offset.
+
+**After watching (learning outcomes)…**
+Stick the ball to the paddle.
