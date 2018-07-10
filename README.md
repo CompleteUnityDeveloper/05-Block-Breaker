@@ -129,3 +129,14 @@ Use Mathf.Clamp() to limit the movement of a game object.
 
 **After watching (learning outcomes)…**
 Stick the ball to the paddle.
+
+
+### 11 Launch The Ball ###
+
+**In this video (objectives)…**
+
+1. Create a method to give the ball an upwards velocity.
+2. Create a bool which allows us to determine if the game has started yet and therefore stop locking the ball to the paddle.
+
+**After watching (learning outcomes)…**
+Launch the ball with upward velocity from the paddle.
