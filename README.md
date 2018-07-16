@@ -140,3 +140,13 @@ Stick the ball to the paddle.
 
 **After watching (learning outcomes)…**
 Launch the ball with upward velocity from the paddle.
+
+
+### 12 Block Breaker Instructor Hangout #1 ###
+
+**In this video (objectives)…**
+
+1. Ben and Rick discuss the use of public variables versus [SerializeField].
+
+**After watching (learning outcomes)…**
+Understand why we avoid using public variables in our classes.
