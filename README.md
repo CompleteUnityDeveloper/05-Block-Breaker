@@ -150,3 +150,14 @@ Launch the ball with upward velocity from the paddle.
 
 **After watching (learning outcomes)…**
 Understand why we avoid using public variables in our classes.
+
+
+### 13 Play Space & Gravity ###
+
+**In this video (objectives)…**
+
+1. Add walls for our ball to bounce off.
+2. Alter the gravity so that the ball doesn't slow down due to gravity.
+
+**After watching (learning outcomes)…**
+Set up our play space and change our gravity.
