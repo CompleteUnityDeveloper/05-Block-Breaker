@@ -197,3 +197,14 @@ Use prefabs and build a level out of prefabbed blocks.
 
 **After watching (learning outcomes)…**
 Create a second level using prefabbed assets.
+
+
+### 17 Fraction Too Much Friction ###
+
+**In this video (objectives)…**
+
+1. Identify the issue - the ball slows down after hitting the side of the paddle.
+2. Alter the physics material friction value to remove all friction on the ball.
+
+**After watching (learning outcomes)…**
+Stop the ball slowing down when it collides with the paddle.
