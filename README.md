@@ -173,3 +173,16 @@ Set up our play space and change our gravity.
 
 **After watching (learning outcomes)…**
 Destroy our block when the ball hits it.
+
+
+### 15 Using Prefabs In Unity ###
+
+**In this video (objectives)…**
+
+1. Create our first prefab.
+2. Experiment with how prefabs work.
+3. Set our snap settings.
+4. Build a level.
+
+**After watching (learning outcomes)…**
+Use prefabs and build a level out of prefabbed blocks.
