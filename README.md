@@ -161,3 +161,15 @@ Understand why we avoid using public variables in our classes.
 
 **After watching (learning outcomes)…**
 Set up our play space and change our gravity.
+
+
+### 14 Destroy GameObject ###
+
+**In this video (objectives)…**
+
+1. Add Block.cs script to our block.
+2. Use the Destroy() method to destroy the block once its hit.
+3. Discuss the option to set arguments for the method.
+
+**After watching (learning outcomes)…**
+Destroy our block when the ball hits it.
