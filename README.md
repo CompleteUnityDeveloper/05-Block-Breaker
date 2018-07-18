@@ -186,3 +186,14 @@ Destroy our block when the ball hits it.
 
 **After watching (learning outcomes)…**
 Use prefabs and build a level out of prefabbed blocks.
+
+
+### 16 Make A Second Level ###
+
+**In this video (objectives)…**
+
+1. Prefab all of the game objects that are required for our game levels.
+2. Create Level 2 using our prefabbed objects.
+
+**After watching (learning outcomes)…**
+Create a second level using prefabbed assets.
