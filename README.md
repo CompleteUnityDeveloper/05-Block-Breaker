@@ -208,3 +208,15 @@ Create a second level using prefabbed assets.
 
 **After watching (learning outcomes)…**
 Stop the ball slowing down when it collides with the paddle.
+
+
+### 18 GetComponent To Play Audio ###
+
+**In this video (objectives)…**
+
+1. Understand Audio Listener, Audio Source and Audio Clip.
+2. Use GetComponent to access the Audio Source and play our clip.
+3. Ensure that the sound does not start until the ball is launched.
+
+**After watching (learning outcomes)…**
+Trigger sound effect each time the ball collides with something.
