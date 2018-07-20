@@ -220,3 +220,15 @@ Stop the ball slowing down when it collides with the paddle.
 
 **After watching (learning outcomes)…**
 Trigger sound effect each time the ball collides with something.
+
+
+### 19 Play Random Sound From Array ###
+
+**In this video (objectives)…**
+
+1. Use PlayOneShot instead of Play.
+2. Create an array and then use that array to randomly select one of many audio clips.
+3. Cache our component reference.
+
+**After watching (learning outcomes)…**
+Randomly play one of many sound effects when an event takes place.
