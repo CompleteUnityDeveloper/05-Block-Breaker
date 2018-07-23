@@ -232,3 +232,14 @@ Trigger sound effect each time the ball collides with something.
 
 **After watching (learning outcomes)…**
 Randomly play one of many sound effects when an event takes place.
+
+
+### 20 PlayClipAtPoint() ###
+
+**In this video (objectives)…**
+
+1. Examine our problem with destroying our GameObject and therefore destroying the ability to play our destroyed SFX.
+2. Use PlayClipAtPoint() to solve the issue of our AudioSource being destroyed.
+
+**After watching (learning outcomes)…**
+Play sounds from objects which are being destroyed.
