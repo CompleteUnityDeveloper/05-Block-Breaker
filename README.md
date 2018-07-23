@@ -243,3 +243,15 @@ Randomly play one of many sound effects when an event takes place.
 
 **After watching (learning outcomes)…**
 Play sounds from objects which are being destroyed.
+
+
+### 21 Count Breakable Blocks ###
+
+**In this video (objectives)…**
+
+1. Map out our workflow for determining how many blocks are in a scene so that we can know when we reach zero.
+2. Create level GameObject and script.
+3. Increment our number of blocks for each block in our scene.
+
+**After watching (learning outcomes)…**
+Tally up the total number of blocks in our scene.
