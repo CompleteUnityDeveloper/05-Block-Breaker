@@ -252,6 +252,18 @@ Play sounds from objects which are being destroyed.
 1. Map out our workflow for determining how many blocks are in a scene so that we can know when we reach zero.
 2. Create level GameObject and script.
 3. Increment our number of blocks for each block in our scene.
+4. Introduction to FindObjectOfType.
 
 **After watching (learning outcomes)…**
 Tally up the total number of blocks in our scene.
+
+
+### 22 Win The Level & Load ###
+
+**In this video (objectives)…**
+
+1. Create a public method for decreasing total number of blocks when a block is destroyed.
+2. Use FindObjectOfType to access our level loading methods.
+
+**After watching (learning outcomes)…**
+Load the next level when all blocks in a level have been destroyed.
