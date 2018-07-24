@@ -267,3 +267,15 @@ Tally up the total number of blocks in our scene.
 
 **After watching (learning outcomes)…**
 Load the next level when all blocks in a level have been destroyed.
+
+
+### 23 Using Time.timeScale ###
+
+**In this video (objectives)…**
+
+1. Use [Range] to create a constrained slider in our inspector.
+2. Add Time.timeScale to adjust the speed of our entire game instead of needing to play around with gravity and velocity.
+3. Hunt down an error by updating our other level with our prefabs.
+
+**After watching (learning outcomes)…**
+Able to change the speed of our game using Time.timeScale.
