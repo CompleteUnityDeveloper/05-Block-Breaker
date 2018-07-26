@@ -279,3 +279,15 @@ Load the next level when all blocks in a level have been destroyed.
 
 **After watching (learning outcomes)…**
 Able to change the speed of our game using Time.timeScale.
+
+
+### 24 Add Player Score ###
+
+**In this video (objectives)…**
+
+1. Create currentScore and pointsPerBlockDestroyed variables.
+2. Create a public method that adds to our score when called.
+3. Call the method which increases our score when a block is destroyed.
+
+**After watching (learning outcomes)…**
+Able to increase the player's score when a block is destroyed.
