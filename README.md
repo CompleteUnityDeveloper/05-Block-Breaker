@@ -291,3 +291,14 @@ Able to change the speed of our game using Time.timeScale.
 
 **After watching (learning outcomes)…**
 Able to increase the player's score when a block is destroyed.
+
+
+### 25 Display Player Score ###
+
+**In this video (objectives)…**
+
+1. Create TextMeshPro text, import font, tweak till we're happy.
+2. Use ToString() to update our text field with our current score.
+
+**After watching (learning outcomes)…**
+Able to display and update the player's score in the UI.
