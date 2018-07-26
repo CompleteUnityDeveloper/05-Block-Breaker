@@ -302,3 +302,15 @@ Able to increase the player's score when a block is destroyed.
 
 **After watching (learning outcomes)…**
 Able to display and update the player's score in the UI.
+
+
+### 26 Implement Singleton Pattern ###
+
+**In this video (objectives)…**
+
+1. Introduce the Singleton Pattern.
+2. Use DontDestroyOnLoad().
+3. Examine the Unity script execution order to see that we can use Awake() for our singleton.
+
+**After watching (learning outcomes)…**
+Able to implement a Singleton Pattern to ensure that our score persists across level load.
