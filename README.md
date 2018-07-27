@@ -314,3 +314,15 @@ Able to display and update the player's score in the UI.
 
 **After watching (learning outcomes)…**
 Able to implement a Singleton Pattern to ensure that our score persists across level load.
+
+
+### 27 Reset Game Session ###
+
+**In this video (objectives)…**
+
+1. Reinforce the public method paradigm we've been using.
+2. Fix the issue with our score persisting from game session to game session.
+3. How to rename a class.
+
+**After watching (learning outcomes)…**
+How to elegantly reset our game session so that our score resets.
