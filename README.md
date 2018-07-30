@@ -326,3 +326,14 @@ Able to implement a Singleton Pattern to ensure that our score persists across l
 
 **After watching (learning outcomes)…**
 How to elegantly reset our game session so that our score resets.
+
+
+### 28 Instantiate GameObject ###
+
+**In this video (objectives)…**
+
+1. Review how Instantiate() works, discussing method overloads and signatures.
+2. Create code for instantiating a particle effect when we destroy a block.
+
+**After watching (learning outcomes)…**
+Able to instantiate a GameObject through our code.
