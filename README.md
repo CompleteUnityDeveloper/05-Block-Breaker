@@ -337,3 +337,14 @@ How to elegantly reset our game session so that our score resets.
 
 **After watching (learning outcomes)…**
 Able to instantiate a GameObject through our code.
+
+
+### 29 Using Tags In Unity ###
+
+**In this video (objectives)…**
+
+1. Getting schwifty with tags - understanding the what and why of using them.
+2. Creating an unbreakable block type which... doesn't... break!
+
+**After watching (learning outcomes)…**
+Able to use tags to create an unbreakable block type.
