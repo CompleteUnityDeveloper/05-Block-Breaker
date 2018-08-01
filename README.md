@@ -348,3 +348,14 @@ Able to instantiate a GameObject through our code.
 
 **After watching (learning outcomes)…**
 Able to use tags to create an unbreakable block type.
+
+
+### 30 Block Damage Levels ###
+
+**In this video (objectives)…**
+
+1. Create 2 variables we can compare - maxHits and timesHit.
+2. Implement a conditional statement to destroy block if maxHits is more than timesHit.
+
+**After watching (learning outcomes)…**
+Create a simple system of multiple damage levels for our blocks.
