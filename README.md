@@ -370,3 +370,15 @@ Create a simple system of multiple damage levels for our blocks.
 
 **After watching (learning outcomes)…**
 Change the sprite displayed for a block based upon how many hits it has taken.
+
+
+### 32 Smarter maxHits Logic ###
+
+**In this video (objectives)…**
+
+1. Remove blocks and recreate our playtesting level.
+2. Add code to provide a warning if our array is missing sprites.
+3. Remove the manual process for defining maxHits and link this to the array size of our sprites.
+
+**After watching (learning outcomes)…**
+Add warnings to catch mistakes and remove one place we could make a mistake.
