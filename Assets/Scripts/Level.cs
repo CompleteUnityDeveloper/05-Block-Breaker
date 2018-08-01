@@ -5,7 +5,7 @@ using System.Collections;
 public class Level : MonoBehaviour
 {
     // state variables
-    [SerializeField] int breakableBricks = 0;
+    [SerializeField] int breakableBricks = 0;  // serializable so we can see at runtime that we have correct # of bricks
 
     void Start()
     {

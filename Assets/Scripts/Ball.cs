@@ -6,20 +6,21 @@ public class Ball : MonoBehaviour
     // config params
     [SerializeField] Vector2 launchVelocity = new Vector2(2f, 10f);
     [Range(0,1f)][SerializeField] float randomFactor = 0.2f;
+    [SerializeField] Paddle paddle1;
 
     // state variables
-	Paddle paddle;
+	// Paddle paddle;
 	bool hasStarted = false;
 	Vector3 paddleToBallVector;
 
 	// Use this for initialization
 	void Start ()
     {
-		paddle = FindObjectOfType<Paddle>();
-		paddleToBallVector = this.transform.position - paddle.transform.position;
+		//paddle = FindObjectOfType<Paddle>();
+		paddleToBallVector = transform.position - paddle1.transform.position;
 	}
 
-    void OnCollisionEnter2D(Collision2D collision)
+  void OnCollisionEnter2D(Collision2D collision)
     {
         Vector2 velocityTweak = new Vector2(
             Random.Range(0f, randomFactor),
@@ -32,7 +33,7 @@ public class Ball : MonoBehaviour
             GetComponent<Rigidbody2D>().velocity += velocityTweak;
         }
     }
-
+    
     // Update is called once per frame
     void Update()
     {
@@ -45,7 +46,7 @@ public class Ball : MonoBehaviour
 
     private void LockBallToPaddle()
     {
-        this.transform.position = paddle.transform.position + paddleToBallVector;
+        transform.position = paddle1.transform.position + paddleToBallVector;
     }
 
     private void LaunchOnMouseClick()

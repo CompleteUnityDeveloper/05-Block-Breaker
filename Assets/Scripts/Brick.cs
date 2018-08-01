@@ -7,7 +7,7 @@ public class Brick : MonoBehaviour
 	[SerializeField] AudioClip crack;
     [SerializeField] Sprite[] hitSprites;
     [SerializeField] GameObject smokeParticles;
-    [SerializeField] string runtimeParentName = "Runtime Objects";
+    [SerializeField] string runtimeParentName = "Runtime Objects"; 
 
     // state variables
 	int timesHit;
@@ -15,11 +15,10 @@ public class Brick : MonoBehaviour
     // cached references
     Level level;
 	
-	void Start ()
+	void Start()
     {
         level = FindObjectOfType<Level>();
         CountBreakableBricks();
-        timesHit = 0;
     }
 
     private void CountBreakableBricks()
@@ -32,7 +31,7 @@ public class Brick : MonoBehaviour
 
     void OnCollisionEnter2D()
     {
-		AudioSource.PlayClipAtPoint(crack, transform.position);
+		//AudioSource.PlayClipAtPoint(crack, Camera.main.transform.position);
         if (tag == "Breakable")
         {
             HandleHit();
@@ -41,15 +40,15 @@ public class Brick : MonoBehaviour
 	
 	private void HandleHit()
     {
-        int maxHits = hitSprites.Length + 1;
         timesHit++;
-		if (timesHit >= maxHits)
+        int maxHits = hitSprites.Length + 1; // remember we have an unhit sprite in sprite renderer
+		if (timesHit >= maxHits)  // why greater than? In case 2 hits in one frame
         {
             DestroyBrick();
         }
         else
         {
-			LoadSprites();
+			ShowNextHitSprites();
 		}
 	}
 
@@ -60,14 +59,15 @@ public class Brick : MonoBehaviour
         Destroy(gameObject);
     }
 
-    private void PuffSmoke ()
+    private void PuffSmoke()
     {
-		GameObject smokePuff = Instantiate (smokeParticles, transform.position, Quaternion.identity) as GameObject;
-        var mainParticleSystem = smokePuff.GetComponent<ParticleSystem>().main;
-        mainParticleSystem.startColor = gameObject.GetComponent<SpriteRenderer>().color;
+		GameObject smokePuff = Instantiate (smokeParticles, transform.position, transform.rotation);
+        Destroy(smokePuff, 2f);
+        //var mainParticleSystem = smokePuff.GetComponent<ParticleSystem>().main;
+        //mainParticleSystem.startColor = gameObject.GetComponent<SpriteRenderer>().color;
 	}
 	
-	void LoadSprites ()
+	void ShowNextHitSprites()
     {
 		int spriteIndex = timesHit - 1;
 		

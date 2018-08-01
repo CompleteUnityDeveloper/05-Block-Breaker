@@ -10,6 +10,7 @@ public class Game : MonoBehaviour
 
     // state variables
     [SerializeField] int score = 0; // challenge to drive UI after next section
+    [SerializeField] int scorePerBlockDestroyed = 100;
 
     private void Start()
     {
@@ -37,7 +38,7 @@ public class Game : MonoBehaviour
 
     public void ScorePoint()
     {
-        score++;
+        score = score + scorePerBlockDestroyed;
     }
 
 }
