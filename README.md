@@ -359,3 +359,14 @@ Able to use tags to create an unbreakable block type.
 
 **After watching (learning outcomes)…**
 Create a simple system of multiple damage levels for our blocks.
+
+
+### 31 Damage Affordance ###
+
+**In this video (objectives)…**
+
+1. Create an array to hold our damage sprites.
+2. Change our sprite renderer depending upon how many hits a block has taken.
+
+**After watching (learning outcomes)…**
+Change the sprite displayed for a block based upon how many hits it has taken.
