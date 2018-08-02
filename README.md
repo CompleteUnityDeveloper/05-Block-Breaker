@@ -382,3 +382,14 @@ Change the sprite displayed for a block based upon how many hits it has taken.
 
 **After watching (learning outcomes)…**
 Add warnings to catch mistakes and remove one place we could make a mistake.
+
+
+### 33 Prevent Boring Ball Loops ###
+
+**In this video (objectives)…**
+
+1. What's our problem? Boring ball loops.
+2. How can we solve it? Adding velocity tweaks to our balls when they bounce into things.
+
+**After watching (learning outcomes)…**
+Add velocity tweaks to our balls to stop them being boring.
