@@ -393,3 +393,15 @@ Add warnings to catch mistakes and remove one place we could make a mistake.
 
 **After watching (learning outcomes)…**
 Add velocity tweaks to our balls to stop them being boring.
+
+
+### 34 Extreme! Tuning! ###
+
+**In this video (objectives)…**
+
+1. Discuss the concept of extreme tuning - why use it.
+2. Audit our current project for places that we can apply some extreme tuning.
+3. Rick does some extreme tuning.
+
+**After watching (learning outcomes)…**
+Able to audit your project and apply extreme tuning to make your project rad.
