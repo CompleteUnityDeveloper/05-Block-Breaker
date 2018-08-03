@@ -405,3 +405,15 @@ Add velocity tweaks to our balls to stop them being boring.
 
 **After watching (learning outcomes)…**
 Able to audit your project and apply extreme tuning to make your project rad.
+
+
+### 35 Tune & Playtest ###
+
+**In this video (objectives)…**
+
+1. Refer back to your player experience to determine how you tune your game.
+2. Tune all of your game variables so that you're happy with them.
+3. Ask a friend to playtest.
+
+**After watching (learning outcomes)…**
+Tune your game so that it matches your player experience.
