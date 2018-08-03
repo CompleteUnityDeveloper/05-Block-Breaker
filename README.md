@@ -409,11 +409,31 @@ Able to audit your project and apply extreme tuning to make your project rad.
 
 ### 35 Tune & Playtest ###
 
+
+
 **In this video (objectives)…**
 
+
+
 1. Refer back to your player experience to determine how you tune your game.
+
 2. Tune all of your game variables so that you're happy with them.
+
 3. Ask a friend to playtest.
 
+
+
 **After watching (learning outcomes)…**
+
 Tune your game so that it matches your player experience.
+
+
+### 36 Autoplay for Playtesting ###
+
+**In this video (objectives)…**
+
+1. Create an if statement to test if we have enabled autoplay.
+2. If auto play is enabled, change the paddle's x position to the same as the ball's x position.
+
+**After watching (learning outcomes)…**
+Able to lock the paddle to the ball using an autoplay toggle.
