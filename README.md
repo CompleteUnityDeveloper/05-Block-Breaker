@@ -437,3 +437,14 @@ Tune your game so that it matches your player experience.
 
 **After watching (learning outcomes)…**
 Able to lock the paddle to the ball using an autoplay toggle.
+
+
+### 37 Make Levels & Upload ###
+
+**In this video (objectives)…**
+
+1. Add extra levels so that you have at least 5 levels.
+2. Create a WebGL build and share to ShareMyGame.com
+
+**After watching (learning outcomes)…**
+Finish your game and upload for the community to check out.
