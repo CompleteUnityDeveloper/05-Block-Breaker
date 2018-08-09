@@ -448,3 +448,14 @@ Able to lock the paddle to the ball using an autoplay toggle.
 
 **After watching (learning outcomes)…**
 Finish your game and upload for the community to check out.
+
+
+### 38 Block Breaker Wrap-Up ###
+
+**In this video (objectives)…**
+
+1. Well done for the great creativity in this section.
+2. You can add to your project or push on to the next section.
+
+**After watching (learning outcomes)…**
+Onwards and upwards to the next section of the course!
