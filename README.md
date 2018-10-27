@@ -450,12 +450,30 @@ Able to lock the paddle to the ball using an autoplay toggle.
 Finish your game and upload for the community to check out.
 
 
+### 37b Block Breaker Instructor Hangout #2 ###
+
+
+**In this video (objectives)...**
+
+1. Discussion about the endless loop issue.
+2. Public versus [SerializeField].
+3. What are messages and how are they called.
+
+
+**After watching (learning outcomes)…**
+
+Ben and Rick talk about a few issues that came up in this section of the course.
+
+
 ### 38 Block Breaker Wrap-Up ###
 
-**In this video (objectives)…**
+
+**In this video (objectives)...**
 
 1. Well done for the great creativity in this section.
 2. You can add to your project or push on to the next section.
 
+
 **After watching (learning outcomes)…**
+
 Onwards and upwards to the next section of the course!
