@@ -316,6 +316,17 @@ Able to display and update the player's score in the UI.
 Able to implement a Singleton Pattern to ensure that our score persists across level load.
 
 
+### 26b Singleton Pattern Bug Fix ###
+
+**In this video (objectives)…**
+
+1. Inserted a simple fix for bugs we are seeing with the Singleton.
+2. Immediately set the game object to inactive and then destroy it.
+
+**After watching (learning outcomes)…**
+Fix one of the known issues with the singleton not destroying itself correctly.
+
+
 ### 27 Reset Game Session ###
 
 **In this video (objectives)…**
